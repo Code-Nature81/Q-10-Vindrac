@@ -2,7 +2,7 @@
 let questions = [
     {
     numb: 10,
-    question: "Jusqu’en quelle année selon vous ?",
+    question: "Jusqu’à quelle année fut-il utilisé?",
     answer: "4) 1980",
     options: [
       "1) 1950",
